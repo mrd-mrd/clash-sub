@@ -57,7 +57,7 @@ content-type@~1.0.4:
 
 cookie-signature@1.0.6:
   version "1.0.6"
-  resolved "https:///registry.npmmirror.com/cookie-signature/download/cookie-signature-1.0.6.tgz#e303a882b342cc3ee8ca513a79999734dab3ae2c"
+  resolved "https://registry.npmmirror.com/cookie-signature/download/cookie-signature-1.0.6.tgz#e303a882b342cc3ee8ca513a79999734dab3ae2c"
   integrity sha1-4wOogrNCzD7oylE6eZmXNNqzriw=
 
 cookie@0.4.0:
